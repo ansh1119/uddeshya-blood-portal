@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Uddeshhya blood portal</string>
+    <string-array name="bloodGroup">
+        <!--        <item>Blood Group</item>-->
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="Branch">
+        <!--        <item>Branch</item>-->
+        <item>CSE</item>
+        <item>CS</item>
+        <item>CSE(AI)</item>
+        <item>CSE(AIML)</item>
+        <item>CSIT</item>
+        <item>IT</item>
+        <item>ECE</item>
+        <item>EN</item>
+        <item>ME</item>
+        <item>B.pharma</item>
+        <item>MCA</item>
+        <item>CIVIL</item>
+        <item>D.pharma</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="occupation">
+        <item>Student</item>
+        <item>business</item>
+        <item>government sector</item>
+        <item>private sector</item>
+        <item>housewife</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="year">
+        <!--        <item>Year Of Study</item>-->
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </string-array>
+
+    <string-array name="gender">
+        <!--        <item>Gender</item>-->
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>Agra</item>
+        <item>Delhi</item>
+        <item>Noida</item>
+        <item>Gurugram</item>
+        <item>Lucknow</item>
+        <item>Meerut</item>
+        <item>Prayagraj</item>
+        <item>Mathura</item>
+        <item>Ghaziabad</item>
+        <item>Lucknow</item>
+    </string-array>
+
+    <string-array name="requirementArray">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+        <item>platelets</item>
+        <item>any</item>
+    </string-array>
+
+    <string-array name="statusArray">
+        <item>Fulfilled</item>
+        <item>pending</item>
+    </string-array>
+</resources>
