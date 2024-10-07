@@ -11,12 +11,11 @@
 
 ## Tech Stack
 ### Frontend
-- **Android (Jetpack Compose)**: The modern UI toolkit for building native Android apps, ensuring a smooth and intuitive user experience.
+- **Android (XML Layouts)**: The UI is designed using traditional XML layouts, ensuring compatibility with a wide range of Android devices.
   
 ### Backend
 - **Firebase Firestore**: Secure and scalable database for storing student data and blood donation information.
 - **Firebase Authentication**: Allows for secure sign-in with email or social providers.
-- **Firebase Cloud Messaging**: Used for sending notifications to users about upcoming donation drives.
 
 ## Installation & Setup
 
